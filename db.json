@@ -1,0 +1,351 @@
+{
+    "Mensdress": [
+      {
+        "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26152912_W_1?fmt=webp&wid=260",
+        "id" : "1",
+        "title": "Whiddon Cap",
+        
+         "price": "$95",
+        "rating": 2,
+        "description": "Mens Shoes",
+        "type":"Black Leather"
+      },
+      {
+        "img": "https://www.clarksusa.com/c/Malwood-Lace/p/26168167",
+        "id" : "2",
+        "title": "Malwood Lace",
+      
+       
+        "price": "$100",
+        "rating": 3,
+        "description": "Mens Shoes",
+        "type":"Black Leather"
+      },
+      {
+        "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26152916_W_1?fmt=webp&wid=200",
+        "id" : "3",
+        "title":"Brawley Pace",
+      
+        
+        "price": "$95",
+        "rating": 1,
+        "description": "Mens Shoes",
+        "type":"Mahogany Leather"
+      },
+      {
+        "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26171539_W_1?fmt=webp&wid=200",
+        "id" : "4",
+        "title": "Gessler Lace",
+        
+        "brand": "13 Fishing",
+        "price":"$95",
+        "orig": 400,
+        "rating": 4,
+        "description": "Mens Shoes",
+        "type":"Mahogany Leather"
+      },
+      {
+        "img": "https://res.cloudinary.com/bass-pro/image/upload/f_auto/q_auto/c_scale,w_220/v1/ProductImages/100/master1_101254373_main?_a=AJAH1WI0",
+        "id" : "5",
+        "title": "Gessler Lace",
+  
+        "price": "$95",
+        "rating": 3,
+        "description": "Mens Shoes",
+        "type":"Mahogany Leather"
+      },
+      {
+          "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26171541_W_1?fmt=webp&wid=200",
+          "id" : "5",
+          "title": "Gessler Lace",
+      
+           "price": "$95",
+          "rating": 3,
+          "description": "Mens Shoes",
+          "type":"Dark Tan Leather"
+        },
+      {
+        "img": "https://www.clarksusa.com/c/Whiddon-Zip/p/26155039",
+        "id" : "7",
+        "title": "Whiddon Zip",
+       
+        "price": "$95",
+        "rating": 2,
+       
+        "description": "Mens Shoes",
+        "type":"Dark Tan Leather"
+      },
+      {
+          "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26172836_W_1?fmt=webp&wid=200",
+          "id" : "8",
+          "title": "Un Hugh Cap",
+          "price": "$140",
+          "rating": 2,
+         "description": "Mens Shoes",
+          "type":"Black Leather"
+        },
+        {
+          "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26168323_W_1?fmt=webp&wid=200",
+          "id" : "9",
+          "title": "Un Hugh Cap",
+          "price": "$140",
+          
+         "description": "Mens Shoes",
+          "type":"Black Leather"
+        },
+        {
+          "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26151788_W_1?fmt=webp&wid=200",
+          "id" : "10",
+          "title": "Un Brawley Step",
+          "price": "$160",
+          
+         "description": "Mens Shoes",
+          "type":"Black Leather"
+        },
+        {
+          "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26151781_W_1?fmt=webp&wid=200",
+          "id" : "11",
+          "title": " Brawley Pace",
+          "price": "$160",
+          "description": "Mens Shoes",
+          "type":"Black Leather"
+        },
+        {
+          "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26152914_W_1?fmt=webp&wid=200",
+          "id" : "12",
+          "title": "Whiddon Mid",
+          "price": "$110",
+          "description": "Mens Shoes",
+          "type":"Black Leather"
+        },
+        {
+          "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26152914_W_1?fmt=webp&wid=200",
+          "id" : "13",
+          "title": "Whiddon Cap",
+          "price": "$95",
+          "description": "Mens Shoes",
+          "type":"Dark Tan Leather"
+        },
+        {
+          "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26152917_W_1?fmt=webp&wid=200",
+          "id" : "14",
+          "title": "Whiddon Step",
+          "price": "$95",
+          "description": "Mens Shoes",
+          "type":"Dark Brown Leather"
+        },
+        {
+          "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26152917_W_1?fmt=webp&wid=200",
+          "id" : "15",
+          "title": "Whiddon Cap",
+          "price": "$95",
+          "description": "Mens Shoes",
+          "type":"Dark Brown "
+        },
+        {
+          "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26152917_W_1?fmt=webp&wid=200",
+          "id" : "16",
+          "title": "Whiddon Cap",
+          "price": "$95",
+          "description": "Mens Shoes",
+          "type":"Dark Brown "
+        },
+        {
+          "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26152909_W_1?fmt=webp&wid=200",
+          "id" : "17",
+          "title": "Whiddon Pace",
+          "price": "$95",
+          "description": "Mens Shoes",
+          "type":"Dark Leather"
+        },
+        {
+          "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26152909_W_1?fmt=webp&wid=200",
+          "id" : "18",
+          "title": "Un Hugh Step",
+          "price": "$140",
+          "description": "Mens Shoes",
+          "type":"Brown Leather"
+        },
+        {
+          "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26152909_W_1?fmt=webp&wid=200",
+          "id" : "19",
+          "title": "Un Hugh Step",
+          "price": "$140",
+          "description": "Mens Shoes",
+          "type":"Brown Leather"
+        },
+        {
+          "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26152909_W_1?fmt=webp&wid=200",
+          "id" : "20",
+          "title": "Atticus LT Lace",
+          "price": "$110",
+          "description": "Mens Shoes",
+          "type":"Brown Leather"
+        },
+        {
+          "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26171595_W_1?fmt=webp&wid=200",
+          "id" : "21",
+          "title": "Atticus LT Lace",
+          "price": "$110",
+          "description": "Mens Shoes",
+          "type":"Navy Leather"
+        },
+        {
+          "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26172070_W_1?fmt=webp&wid=200",
+          "id" : "22",
+          "title": "Atticus LT Lace",
+          "price": "$110",
+          "description": "Mens Shoes",
+          "type":"Dark Tan Leather"
+        },
+        {
+          "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26172837_W_1?fmt=webp&wid=200",
+          "id" : "23",
+          "title": "Un Hugh Step",
+          "price": "$140",
+          "description": "Mens Shoes",
+          "type":"Dark Tan Leather"
+        },
+        {
+          "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26168162_W_1?fmt=webp&wid=200",
+          "id" : "24",
+          "title": "Malwood Lace",
+          "price": "$100",
+          "description": "Mens Shoes",
+          "type":"Dark Tan Leather"
+        }
+    ],
+    "Mensshoe": [
+      {
+        "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26171924_W_1?fmt=webp&wid=200",
+        "id" : "1",
+        "title": "Nature X One",
+      
+        "price": "$130",
+        "description":"Mens Sport Shoes",
+        "type":"White Leather"
+      
+      
+      },
+      {
+          "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26170376_W_1?fmt=webp&wid=200",
+          "id" : "2",
+          "title": "ALT Trail Walk",
+          "price": "$130",
+          "description":"Mens Sport Shoes",
+          "type":"Brown"
+        },
+        {
+          "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26170149_W_1?fmt=webp&wid=200",
+          "id" : "3",
+          "title": "ALT Trail Walk WaterPro",
+          "price": "$140",
+          "description":"Mens Sport Shoes",
+          "type":"Navy Multi"
+        },
+        {
+          "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26170149_W_1?fmt=webp&wid=200",
+          "id" : "4",
+          "title": "ALT Trail Wally ",
+          "price": "$120",
+          "description":"Mens Sport Shoes",
+          "type":"Cobalt"
+        },
+        {
+          "img": "https://www.clarksusa.com/c/ATL-Trail-Wally/p/26172437",
+          "id" : "5",
+          "title": "ALT Trail Wally ",
+          "price": "$120",
+          "description":"Mens Sport Shoes",
+          "type":"Black"
+        },
+        {
+          "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26172439_W_1?fmt=webp&wid=200",
+          "id" : "6",
+          "title": "ALT Trail Wally ",
+          "price": "$120",
+          "description":"Mens Sport Shoes",
+          "type":"Olive"
+        },
+        {
+          "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26170264_W_1?fmt=webp&wid=200",
+          "id" : "7",
+          "title": "Nature X One ",
+          "price": "$130",
+          "description":"Mens Sport Shoes",
+          "type":"Pibble"
+        },
+        {
+          "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26171979_W_1?fmt=webp&wid=200",
+          "id" : "8",
+          "title": "Nature X One ",
+          "price": "$130",
+          "description":"Mens Sport Shoes",
+          "type":"Grey Combination"
+        },
+        {
+          "img": "https://www.clarksusa.com/c/Nature-X-One/p/26170629",
+          "id" : "9",
+          "title": "Nature X One ",
+          "price": "$130",
+          "description":"Mens Sport Shoes",
+          "type":"Grey Combination"
+        },
+        {
+          "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26171620_W_1?fmt=webp&wid=200",
+          "id" : "10",
+          "title": "Court Lite Move ",
+          "price": "$120",
+          "description":"Mens Sport Shoes",
+          "type":"Grey Combination"
+        },
+        {
+          "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26169715_W_1?fmt=webp&wid=200",
+          "id" : "11",
+          "title": "Court Lite Move ",
+          "price": "$120",
+          "description":"Mens Sport Shoes",
+          "type":"White"
+        },
+        {
+          "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26169714_W_1?fmt=webp&wid=200",
+          "id" : "12",
+          "title": "Court Lite Move ",
+          "price": "$120",
+          "description":"Mens Sport Shoes",
+          "type":"Black"
+        },
+        {
+          "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26170031_W_1?fmt=webp&wid=200",
+          "id" : "13",
+          "title": "Craft Run Tor ",
+          "price": "$140",
+          "description":"Mens Sport Shoes",
+          "type":"Grey"
+        },
+        {
+          "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26170033_W_1?fmt=webp&wid=200",
+          "id" : "14",
+          "title": "Craft Run Tor ",
+          "price": "$140",
+          "description":"Mens Sport Shoes",
+          "type":"Dark Sand"
+        },
+        {
+          "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26170544_W_1?fmt=webp&wid=200",
+          "id" : "15",
+          "title": "Top Run ",
+          "price": "$180",
+          "description":"Mens Originals Icon Shoes ",
+          "type":"Dark Combi"
+        },
+        {
+          "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26170548_W_1?fmt=webp&wid=200",
+          "id" : "16",
+          "title": "Craft Run Tor",
+          "price": "$140",
+          "description":"Mens Originals Icon Shoes ",
+          "type":"Navy"
+        }
+   ]
+  }
