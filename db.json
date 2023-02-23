@@ -11,7 +11,7 @@
         "type":"Black Leather"
       },
       {
-        "img": "https://www.clarksusa.com/c/Malwood-Lace/p/26168167",
+        "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26152917_W_1?fmt=webp&wid=260",
         "id" : "2",
         "title": "Malwood Lace",
       
@@ -33,11 +33,11 @@
         "type":"Mahogany Leather"
       },
       {
-        "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26171539_W_1?fmt=webp&wid=200",
+        "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26168169_W_1?fmt=webp&wid=260",
         "id" : "4",
         "title": "Gessler Lace",
         
-        "brand": "13 Fishing",
+       
         "price":"$95",
         "orig": 400,
         "rating": 4,
@@ -45,7 +45,7 @@
         "type":"Mahogany Leather"
       },
       {
-        "img": "https://res.cloudinary.com/bass-pro/image/upload/f_auto/q_auto/c_scale,w_220/v1/ProductImages/100/master1_101254373_main?_a=AJAH1WI0",
+        "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26168169_W_1?fmt=webp&wid=260",
         "id" : "5",
         "title": "Gessler Lace",
   
@@ -56,7 +56,7 @@
       },
       {
           "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26171541_W_1?fmt=webp&wid=200",
-          "id" : "5",
+          "id" : "6",
           "title": "Gessler Lace",
       
            "price": "$95",
@@ -65,7 +65,7 @@
           "type":"Dark Tan Leather"
         },
       {
-        "img": "https://www.clarksusa.com/c/Whiddon-Zip/p/26155039",
+        "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26169475_W_1?fmt=webp&wid=260",
         "id" : "7",
         "title": "Whiddon Zip",
        
@@ -252,7 +252,7 @@
           "type":"Cobalt"
         },
         {
-          "img": "https://www.clarksusa.com/c/ATL-Trail-Wally/p/26172437",
+          "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26172437_W_1?fmt=webp&wid=260",
           "id" : "5",
           "title": "ALT Trail Wally ",
           "price": "$120",
@@ -284,7 +284,7 @@
           "type":"Grey Combination"
         },
         {
-          "img": "https://www.clarksusa.com/c/Nature-X-One/p/26170629",
+          "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26170629_W_1?fmt=webp&wid=260",
           "id" : "9",
           "title": "Nature X One ",
           "price": "$130",
